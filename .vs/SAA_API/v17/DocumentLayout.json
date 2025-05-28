@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\entities\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\entities\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\controllers\\editorialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\controllers\\editorialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|f:\\websites\\projects\\pruebast\\project1\\api\\saa_api\\custapi\\entities\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590CFE3E-1D8B-4CBA-A235-E7C8FBCFE4E9}|CustAPI\\SAA_API.csproj|solutionrelative:custapi\\entities\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditorialesController.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\EditorialesController.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Controllers\\EditorialesController.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\EditorialesController.cs",
+              "RelativeToolTip": "CustAPI\\Controllers\\EditorialesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:50:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustAPI\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T23:44:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Startup.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Startup.cs",
+              "RelativeToolTip": "CustAPI\\Startup.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:40:24.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Program.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Program.cs",
+              "RelativeToolTip": "CustAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:40:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Entities\\Libros.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Entities\\Libros.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Entities\\Libros.cs",
+              "RelativeToolTip": "CustAPI\\Entities\\Libros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:40:10.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Contexts\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Contexts\\AppDBContext.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Contexts\\AppDBContext.cs",
+              "RelativeToolTip": "CustAPI\\Contexts\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:39:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProyectosController.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\ProyectosController.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Controllers\\ProyectosController.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\ProyectosController.cs",
+              "RelativeToolTip": "CustAPI\\Controllers\\ProyectosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:37:04.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Controllers\\VentasController.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "CustAPI\\Controllers\\VentasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:33:20.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "CustAPI\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:32:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CustAPI\\appsettings.json",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\appsettings.json",
+              "RelativeToolTip": "CustAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T20:20:17.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Entities\\Ventas.cs",
+              "RelativeDocumentMoniker": "CustAPI\\Entities\\Ventas.cs",
+              "ToolTip": "F:\\Websites\\Projects\\PruebasT\\Project1\\API\\SAA_API\\CustAPI\\Entities\\Ventas.cs",
+              "RelativeToolTip": "CustAPI\\Entities\\Ventas.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwBwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:20:06.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
